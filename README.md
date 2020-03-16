@@ -5,3 +5,5 @@ donde se hara toda la gestion de recibir los archivos con el historial de conver
 y la postuma clasificacion de los puntajes segun la data
 
 Esto fue desarrollado usando 'Flask' como framework web
+
+Run proyect: python app.py
