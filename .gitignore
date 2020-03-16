@@ -5,3 +5,4 @@
 .local_settingsg
 venv
 db.sqlite3
+.idea
