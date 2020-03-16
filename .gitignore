@@ -1,0 +1,7 @@
+*.pyc
+.env
+*.sqlite3
+.idea/
+.local_settingsg
+venv
+db.sqlite3
